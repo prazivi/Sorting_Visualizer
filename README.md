@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-![Sorting Visualizer Screenshot](screenshot.png)
+
 
 ## Overview
 
